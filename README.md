@@ -22,6 +22,12 @@ Hibernate
 -Framework de persistance objet-relationnel (ORM) pour faciliter l'interaction avec une base de données.
 Mapping objet-relationnel pour abstraire la complexité des opérations de base de données.
 
+-GlassFish
+
+GlassFish sert de serveur d'application dans ce projet. En tant que serveur Java EE open-source, il fournit un environnement d'exécution robuste pour les applications Java. GlassFish assure la prise en charge des technologies Java telles que JSF et Hibernate, facilitant ainsi le déploiement et l'exécution du projet de gestion des employés et des services.
+
+L'ensemble de ces technologies, contribue à la réalisation d'une solution complète et performante pour la gestion des employés et des services. De l'authentification des administrateurs à la présentation visuelle des statistiques, ce projet s'efforce d'offrir une expérience utilisateur fluide et une gestion efficace des ressources humaines et des services au sein de l'entreprise.
+
 # Base de donnes :
 ![image](https://github.com/simo-laaouibi/jsf/assets/148088062/0b8dda0a-374d-4828-a9c8-5f85f91b94ce)
 
