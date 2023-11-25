@@ -10,7 +10,7 @@ Il est développé par Oracle Corporation dans le cadre de la plateforme Java EE
 --jsf--
 --mysql--
 --jsf--
---
+
 # Base de donnes :
 ![image](https://github.com/simo-laaouibi/jsf/assets/148088062/0b8dda0a-374d-4828-a9c8-5f85f91b94ce)
 
@@ -45,8 +45,11 @@ Il est développé par Oracle Corporation dans le cadre de la plateforme Java EE
 # interface statistique 
 ![7 statistique orange ](https://github.com/simo-laaouibi/jsf/assets/148088062/2dad9ebe-59ff-4bfc-a546-0c127717d4c2)
 
-# Recherche Par service et recherche par date de naissance 
-![8 recherche par service et par emplayer date de naissance orange ](https://github.com/simo-laaouibi/jsf/assets/148088062/e810ee33-f1a6-4045-84be-d0616809e232)
+# Recherche Par service 
+![image](https://github.com/simo-laaouibi/jsf/assets/148088062/63e1c800-83e5-437f-8021-8c0a4e9968a9)
+
+
+
 
 
 
