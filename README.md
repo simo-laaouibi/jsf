@@ -10,6 +10,15 @@ Il est développé par Oracle Corporation dans le cadre de la plateforme Java EE
 --jsf--
 --mysql--
 --jsf--
+JavaServer Faces (JSF)
+
+Framework web basé sur des composants pour simplifier le développement d'interfaces utilisateur.
+Gestion du cycle de vie des pages web côté serveur.
+Modèle de programmation basé sur des composants réutilisables.
+Hibernate
+
+Framework de persistance objet-relationnel (ORM) pour faciliter l'interaction avec une base de données.
+Mapping objet-relationnel pour abstraire la complexité des opérations de base de données.
 
 # Base de donnes :
 ![image](https://github.com/simo-laaouibi/jsf/assets/148088062/0b8dda0a-374d-4828-a9c8-5f85f91b94ce)
